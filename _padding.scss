@@ -1,0 +1,19 @@
+@for $i from 1 through 100 {
+    @if $i % 5 == 0 {
+      .pad-#{$i} {
+      padding: #{$i}px;
+   }
+      .pad-left-#{$i} {
+      padding-left: #{$i}px;
+   }
+      .pad-right-#{$i} {
+      padding-right: #{$i}px;
+   }
+     .pad-bottom-#{$i} {
+      padding-bottom: #{$i}px;
+   }
+      .pad-top-#{$i} {
+      padding-top: #{$i}px;
+   }
+  }
+}

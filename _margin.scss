@@ -1,0 +1,19 @@
+@for $i from 1 through 100 {
+    @if $i % 5 == 0 {
+      .mar-#{$i} {
+      margin: #{$i}px;
+    }
+      .mar-left-#{$i} {
+      margin-left: #{$i}px;
+    }
+      .mar-right-#{$i} {
+      margin-right: #{$i}px;
+    }
+     .mar-bottom-#{$i} {
+      margin-bottom: #{$i}px;
+    }
+      .mar-top-#{$i} {
+      margin-top: #{$i}px;
+    }
+    }
+  }
