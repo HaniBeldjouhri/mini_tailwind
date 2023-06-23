@@ -5,3 +5,10 @@
      }
     }
 }
+
+$values: dashed, dotted, double line-through, none, overline, solid, underline, wavy ;
+@each $value in $values {
+  .txt-decr-#{$size} {
+    text-decoration: $value;
+  }
+}
