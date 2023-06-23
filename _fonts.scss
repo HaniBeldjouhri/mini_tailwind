@@ -8,7 +8,14 @@
 
 $values: dashed, dotted, double line-through, none, overline, solid, underline, wavy ;
 @each $value in $values {
-  .txt-decr-#{$size} {
+  .txt-decr-#{$value} {
     text-decoration: $value;
+  }
+}
+
+$values: serif, sans-serif, monospace, cursive, fantasy, system-ui, ui-serif, ui-sans-serif, ui-monospace, ui-rounded ;
+@each $value in $values {
+  .font-fml-#{$value} {
+    font-family: $value ;
   }
 }
