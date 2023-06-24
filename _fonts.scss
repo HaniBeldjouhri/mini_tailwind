@@ -13,7 +13,7 @@ $values: dashed, dotted, double line-through, none, overline, solid, underline, 
   }
 }
 
-$values: serif, sans-serif, monospace, cursive, fantasy, system-ui, ui-serif, ui-sans-serif, ui-monospace, ui-rounded ;
+$values: serif, sans-serif, monospace, cursive, fantasy, system-ui, ui-serif, ui-sans-serif, ui-monospace, ui-rounded,'Courier New', Courier,'Franklin Gothic Medium', 'Arial Narrow', Arial'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana,'Segoe UI', Tahoma,'Times New Roman', Times,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Helvetica,Cambria, Cochin, Georgia,Impact, Haettenschweiler, 'Arial Narrow Bold', Geneva, ;
 @each $value in $values {
   .font-fml-#{$value} {
     font-family: $value ;
