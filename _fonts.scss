@@ -19,3 +19,10 @@ $values: serif, sans-serif, monospace, cursive, fantasy, system-ui, ui-serif, ui
     font-family: $value ;
   }
 }
+
+$values: center, end, justify, left, right, start;
+@each $value in $values {
+  .txt-align-#{$value} {
+    text-align: $value;
+  }
+}
