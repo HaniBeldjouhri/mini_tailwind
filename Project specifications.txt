@@ -1,0 +1,11 @@
+extension : tailwind css 
+Project specifications:
+the files you should create:
+//margin
+//padding
+broder
+display
+colors:bg,fg
+fonts
+shdow
+width & hight
