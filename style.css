@@ -796,4 +796,301 @@
 
 .pad-top-100 {
   padding-top: 100px;
+}
+
+.font-size-5 {
+  font-size: 5px;
+}
+
+.font-size-10 {
+  font-size: 10px;
+}
+
+.font-size-15 {
+  font-size: 15px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-25 {
+  font-size: 25px;
+}
+
+.font-size-30 {
+  font-size: 30px;
+}
+
+.font-size-35 {
+  font-size: 35px;
+}
+
+.font-size-40 {
+  font-size: 40px;
+}
+
+.font-size-45 {
+  font-size: 45px;
+}
+
+.font-size-50 {
+  font-size: 50px;
+}
+
+.font-size-55 {
+  font-size: 55px;
+}
+
+.font-size-60 {
+  font-size: 60px;
+}
+
+.font-size-65 {
+  font-size: 65px;
+}
+
+.font-size-70 {
+  font-size: 70px;
+}
+
+.font-size-75 {
+  font-size: 75px;
+}
+
+.font-size-80 {
+  font-size: 80px;
+}
+
+.font-size-85 {
+  font-size: 85px;
+}
+
+.font-size-90 {
+  font-size: 90px;
+}
+
+.font-size-95 {
+  font-size: 95px;
+}
+
+.font-size-100 {
+  font-size: 100px;
+}
+
+.txt-decr-dashed {
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
+}
+
+.txt-decr-dotted {
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+}
+
+.txt-decr-double line-through {
+  -webkit-text-decoration: double line-through;
+          text-decoration: double line-through;
+}
+
+.txt-decr-none {
+  text-decoration: none;
+}
+
+.txt-decr-overline {
+  text-decoration: overline;
+}
+
+.txt-decr-solid {
+  -webkit-text-decoration: solid;
+          text-decoration: solid;
+}
+
+.txt-decr-underline {
+  text-decoration: underline;
+}
+
+.txt-decr-wavy {
+  -webkit-text-decoration: wavy;
+          text-decoration: wavy;
+}
+
+.font-fml-serif {
+  font-family: serif;
+}
+
+.font-fml-sans-serif {
+  font-family: sans-serif;
+}
+
+.font-fml-monospace {
+  font-family: monospace;
+}
+
+.font-fml-cursive {
+  font-family: cursive;
+}
+
+.font-fml-fantasy {
+  font-family: fantasy;
+}
+
+.font-fml-system-ui {
+  font-family: system-ui;
+}
+
+.font-fml-ui-serif {
+  font-family: ui-serif;
+}
+
+.font-fml-ui-sans-serif {
+  font-family: ui-sans-serif;
+}
+
+.font-fml-ui-monospace {
+  font-family: ui-monospace;
+}
+
+.font-fml-ui-rounded {
+  font-family: ui-rounded;
+}
+
+.font-fml-Courier New {
+  font-family: "Courier New";
+}
+
+.font-fml-Courier {
+  font-family: Courier;
+}
+
+.font-fml-Franklin Gothic Medium {
+  font-family: "Franklin Gothic Medium";
+}
+
+.font-fml-Arial Narrow {
+  font-family: "Arial Narrow";
+}
+
+.font-fml-Arial Gill Sans {
+  font-family: Arial "Gill Sans";
+}
+
+.font-fml-Gill Sans MT {
+  font-family: "Gill Sans MT";
+}
+
+.font-fml-Calibri {
+  font-family: Calibri;
+}
+
+.font-fml-Trebuchet MS {
+  font-family: "Trebuchet MS";
+}
+
+.font-fml-Lucida Sans {
+  font-family: "Lucida Sans";
+}
+
+.font-fml-Lucida Sans Regular {
+  font-family: "Lucida Sans Regular";
+}
+
+.font-fml-Lucida Grande {
+  font-family: "Lucida Grande";
+}
+
+.font-fml-Lucida Sans Unicode {
+  font-family: "Lucida Sans Unicode";
+}
+
+.font-fml-Verdana {
+  font-family: Verdana;
+}
+
+.font-fml-Segoe UI {
+  font-family: "Segoe UI";
+}
+
+.font-fml-Tahoma {
+  font-family: Tahoma;
+}
+
+.font-fml-Times New Roman {
+  font-family: "Times New Roman";
+}
+
+.font-fml-Times {
+  font-family: Times;
+}
+
+.font-fml-Trebuchet MS {
+  font-family: "Trebuchet MS";
+}
+
+.font-fml-Lucida Sans Unicode {
+  font-family: "Lucida Sans Unicode";
+}
+
+.font-fml-Lucida Grande {
+  font-family: "Lucida Grande";
+}
+
+.font-fml-Lucida Sans {
+  font-family: "Lucida Sans";
+}
+
+.font-fml-Helvetica {
+  font-family: Helvetica;
+}
+
+.font-fml-Cambria {
+  font-family: Cambria;
+}
+
+.font-fml-Cochin {
+  font-family: Cochin;
+}
+
+.font-fml-Georgia {
+  font-family: Georgia;
+}
+
+.font-fml-Impact {
+  font-family: Impact;
+}
+
+.font-fml-Haettenschweiler {
+  font-family: Haettenschweiler;
+}
+
+.font-fml-Arial Narrow Bold {
+  font-family: "Arial Narrow Bold";
+}
+
+.font-fml-Geneva {
+  font-family: Geneva;
+}
+
+.txt-align-center {
+  text-align: center;
+}
+
+.txt-align-end {
+  text-align: end;
+}
+
+.txt-align-justify {
+  text-align: justify;
+}
+
+.txt-align-left {
+  text-align: left;
+}
+
+.txt-align-right {
+  text-align: right;
+}
+
+.txt-align-start {
+  text-align: start;
 }/*# sourceMappingURL=style.css.map */
