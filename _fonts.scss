@@ -26,3 +26,10 @@ $values: center, end, justify, left, right, start;
     text-align: $value;
   }
 }
+
+$values: oblique, normal, italic;
+@each $value in $values {
+  .txt-align-#{$value} {
+    font-style: $value;
+  }
+}
