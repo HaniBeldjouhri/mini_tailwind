@@ -915,162 +915,6 @@
           text-decoration: wavy;
 }
 
-.font-fml-serif {
-  font-family: serif;
-}
-
-.font-fml-sans-serif {
-  font-family: sans-serif;
-}
-
-.font-fml-monospace {
-  font-family: monospace;
-}
-
-.font-fml-cursive {
-  font-family: cursive;
-}
-
-.font-fml-fantasy {
-  font-family: fantasy;
-}
-
-.font-fml-system-ui {
-  font-family: system-ui;
-}
-
-.font-fml-ui-serif {
-  font-family: ui-serif;
-}
-
-.font-fml-ui-sans-serif {
-  font-family: ui-sans-serif;
-}
-
-.font-fml-ui-monospace {
-  font-family: ui-monospace;
-}
-
-.font-fml-ui-rounded {
-  font-family: ui-rounded;
-}
-
-.font-fml-Courier New {
-  font-family: "Courier New";
-}
-
-.font-fml-Courier {
-  font-family: Courier;
-}
-
-.font-fml-Franklin Gothic Medium {
-  font-family: "Franklin Gothic Medium";
-}
-
-.font-fml-Arial Narrow {
-  font-family: "Arial Narrow";
-}
-
-.font-fml-Arial Gill Sans {
-  font-family: Arial "Gill Sans";
-}
-
-.font-fml-Gill Sans MT {
-  font-family: "Gill Sans MT";
-}
-
-.font-fml-Calibri {
-  font-family: Calibri;
-}
-
-.font-fml-Trebuchet MS {
-  font-family: "Trebuchet MS";
-}
-
-.font-fml-Lucida Sans {
-  font-family: "Lucida Sans";
-}
-
-.font-fml-Lucida Sans Regular {
-  font-family: "Lucida Sans Regular";
-}
-
-.font-fml-Lucida Grande {
-  font-family: "Lucida Grande";
-}
-
-.font-fml-Lucida Sans Unicode {
-  font-family: "Lucida Sans Unicode";
-}
-
-.font-fml-Verdana {
-  font-family: Verdana;
-}
-
-.font-fml-Segoe UI {
-  font-family: "Segoe UI";
-}
-
-.font-fml-Tahoma {
-  font-family: Tahoma;
-}
-
-.font-fml-Times New Roman {
-  font-family: "Times New Roman";
-}
-
-.font-fml-Times {
-  font-family: Times;
-}
-
-.font-fml-Trebuchet MS {
-  font-family: "Trebuchet MS";
-}
-
-.font-fml-Lucida Sans Unicode {
-  font-family: "Lucida Sans Unicode";
-}
-
-.font-fml-Lucida Grande {
-  font-family: "Lucida Grande";
-}
-
-.font-fml-Lucida Sans {
-  font-family: "Lucida Sans";
-}
-
-.font-fml-Helvetica {
-  font-family: Helvetica;
-}
-
-.font-fml-Cambria {
-  font-family: Cambria;
-}
-
-.font-fml-Cochin {
-  font-family: Cochin;
-}
-
-.font-fml-Georgia {
-  font-family: Georgia;
-}
-
-.font-fml-Impact {
-  font-family: Impact;
-}
-
-.font-fml-Haettenschweiler {
-  font-family: Haettenschweiler;
-}
-
-.font-fml-Arial Narrow Bold {
-  font-family: "Arial Narrow Bold";
-}
-
-.font-fml-Geneva {
-  font-family: Geneva;
-}
-
 .txt-align-center {
   text-align: center;
 }
@@ -1093,4 +937,16 @@
 
 .txt-align-start {
   text-align: start;
+}
+
+.txt-align-oblique {
+  font-style: oblique;
+}
+
+.txt-align-normal {
+  font-style: normal;
+}
+
+.txt-align-italic {
+  font-style: italic;
 }/*# sourceMappingURL=style.css.map */
